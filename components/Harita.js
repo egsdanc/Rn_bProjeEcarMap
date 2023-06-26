@@ -8,7 +8,7 @@ import { useSelector,useDispatch  } from 'react-redux';
  import { connect } from 'react-redux';
  import { bindActionCreators } from 'redux';
 
-const GOOGLE_MAPS_APIKEY="AIzaSyCnOqmperOSuIWEG0cuWaAizbYFKn9Mi5s";
+const GOOGLE_MAPS_APIKEY="AIzaSyC1nOqmperO3SuIWEG04cuWaAizb4YFKn9Mi5s";
 
 
 
