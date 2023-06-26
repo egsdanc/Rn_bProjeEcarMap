@@ -2,7 +2,7 @@ import { StyleSheet, Text, View, FlatList,TouchableOpacity } from 'react-native'
 import React, { useEffect,useState } from 'react'
 import { useSelector,useDispatch  } from 'react-redux';
 import MapViewDirections from "react-native-maps-directions" ;
-const GOOGLE_MAPS_APIKEY="AIzaSyCnOqmperOSuIWEG0cuWaAizbYFKn9Mi5s";
+const GOOGLE_MAPS_APIKEY="AIzaSyC1nOqmperO3SuIWEG04cuWaAizb4YFKn9Mi5s";
 
 
 const Stasion = ({ veri, latH, lngH }) => {
