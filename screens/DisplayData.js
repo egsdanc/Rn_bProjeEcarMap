@@ -5,7 +5,7 @@ import { GooglePlacesAutocomplete } from 'react-native-google-places-autocomplet
 import { useNavigation } from '@react-navigation/native';
 import MapView, { Marker } from "react-native-maps";
 import { useState } from 'react';
-const GOOGLE_MAPS_APIKEY="AIzaSyCnOqmperOSuIWEG0cuWaAizbYFKn9Mi5s";
+const GOOGLE_MAPS_APIKEY="AIzaSyC1nOqmperO3SuIWEG04cuWaAizb4YFKn9Mi5s";
 
 
 
